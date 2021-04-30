@@ -7,3 +7,9 @@ Libs used:
 Numpy 
 Matplotlib
 
+Screenshots:
+<img width="550" alt="Screen Shot 2021-04-30 at 12 06 07 PM" src="https://user-images.githubusercontent.com/69484554/116680911-8ffb1d00-a9ac-11eb-964f-045b5cf9629e.png">
+<img width="635" alt="Screen Shot 2021-04-30 at 12 07 08 PM" src="https://user-images.githubusercontent.com/69484554/116680944-97bac180-a9ac-11eb-87c0-268c4d48a85c.png">
+
+
+
